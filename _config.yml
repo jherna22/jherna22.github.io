@@ -1,3 +1,5 @@
-name: Joseph Hernandez Portfolio 
+title: Joseph Hernandez Portfolio 
+logo: /assets/img/logo.png
 theme: pages-themes/minimal@v0.2.0
 description: Projects that will showcase my skillset
+show_downloads: true
