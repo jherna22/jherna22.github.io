@@ -1,5 +1,5 @@
 title: Joseph Hernandez Portfolio 
 logo: /assets/img/logo.png
-theme: pages-themes/minimal@v0.2.0
+theme: jekyll-theme-minimal
 description: Projects that will showcase my skillset
 show_downloads: true
